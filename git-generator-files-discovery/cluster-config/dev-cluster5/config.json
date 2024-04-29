@@ -1,4 +1,5 @@
 {
+  "name": "name-dev-cluster4"
   "aws_account": "123456",
   "asset_id": "11223344",
   "cluster": {
@@ -6,4 +7,5 @@
     "name": "engineering-prod",
     "address": "http://1.2.3.4"
   }
+  "server":"dev-cluster4"
 }
