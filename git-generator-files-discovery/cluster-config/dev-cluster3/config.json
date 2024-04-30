@@ -1,0 +1,10 @@
+{
+  "name": "name-dev-cluster3",
+  "aws_account": "123456",
+  "asset_id": "11223344",
+  "paramDB": {
+    "missioncontrol": "11",
+    "dse": "12",
+    "address": "http://1.2.3.4"
+  }
+}
