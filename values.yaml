@@ -1,6 +1,9 @@
-main_tile: "Les Reflets du Labyrinthe"
+tenant: 123456
 
-paramA:
-  att1: "Le Secret des Horloges Brisées"
-  att2: "123"
-  att3: "nickel"
+paramEngine:
+  nodes: 10
+  context: maincontext
+
+paramDB:
+  missioncontrol: 6.0
+  dse: 4.0
