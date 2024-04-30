@@ -1,7 +1,7 @@
 {
    "paramDB": {
-    "missioncontrol": "11",
-    "dse": "12",
+    "missioncontrol": "1.0.2",
+    "dse": "6.8",
     "address": "http://1.2.3.4"
   }
 }
